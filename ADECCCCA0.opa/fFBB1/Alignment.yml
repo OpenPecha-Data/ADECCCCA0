@@ -1,0 +1,22 @@
+segment_sources:
+  IF4D4BAB4:
+    type: origin_type
+    relation: translation
+    language: en
+  I50E6CBD6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c815584d47f14334bb05770a75028966:
+    IF4D4BAB4: 5a31fc9795ba41b8972933162ca67287
+    I50E6CBD6: 04c374a3a2e8421599ab1e75c9fc1c68
+  45644229db21489cbaa54419d5fb7210:
+    IF4D4BAB4: a7c220e7db8d48a6845665bebb3364db
+    I50E6CBD6: ef27e29e53bc40868a8f9df9471d0bfb
+  ca4ab026c581448eb692a6b4a19e7326:
+    IF4D4BAB4: fe1f0ec949f84015a78c490b558f6760
+    I50E6CBD6: 54b5fe9be79c486c8fb6a2ba81775b2a
+  bc4a52e2d518441c8649bed46914d5a6:
+    IF4D4BAB4: 5349950a931f48688dc899f75f102d0b
+    I50E6CBD6: cac1c6ad2a9e490096b09efb69545040
